@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="130" y="-20" sprite="Raven FNF" scale="0.8" antialiasing="false" flipX="true" isPlayer="true" icon="rav" color="#963434">
+	<anim name="idle" anim="Idle"/>
+	<anim name="singDOWN" anim="Down" x="-16" y="-11"/>
+	<anim name="singRIGHT" anim="Right" x="-5" y="1"/>
+	<anim name="singLEFT" anim="Left" x="-11" y="-1"/>
+	<anim name="singUP" anim="Up" x="-12" y="-5"/>
+</character>

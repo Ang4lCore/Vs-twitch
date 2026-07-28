@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#000000",
+	"opponentModeAllowed": true,
+	"icon": "heb",
+	"difficulties": [
+		"Hard"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Red demon",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 125
+}

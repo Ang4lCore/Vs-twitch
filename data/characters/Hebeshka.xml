@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" y="-50" scale="0.7" flipX="true" icon="Heb" color="#23A837">
+	<anim name="idle" anim="Idle"/>
+	<anim name="singDOWN" anim="Down" x="5.71" y="1.43"/>
+	<anim name="singRIGHT" anim="Right" x="1.43" y="2.86"/>
+	<anim name="singLEFT" anim="Left" x="2.14"/>
+	<anim name="singUP" anim="Up" y="2.86"/>
+</character>

@@ -1,0 +1,16 @@
+{
+	"customValues": {},
+	"color": "#007B26",
+	"opponentModeAllowed": true,
+	"icon": "bf",
+	"difficulties": [
+		"",
+		"WTF"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Bruh",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 130
+}
