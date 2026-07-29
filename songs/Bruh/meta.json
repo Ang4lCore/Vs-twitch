@@ -1,10 +1,9 @@
 {
 	"customValues": {},
-	"color": "#007B26",
+	"color": "#2183D4",
 	"opponentModeAllowed": true,
 	"icon": "bf",
 	"difficulties": [
-		"",
 		"WTF"
 	],
 	"coopAllowed": true,
