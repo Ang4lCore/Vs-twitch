@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="100" sprite="Erica" scale="0.7" flipX="true" icon="eri" color="#2FC743">
+<character x="100" y="-40" sprite="Erica" scale="0.8" flipX="true" icon="eri" color="#2FC743">
 	<anim name="idle" anim="Idle"/>
 	<anim name="singDOWN" anim="Down" x="54.28" y="-18.58"/>
 	<anim name="singRIGHT" anim="Right"/>
